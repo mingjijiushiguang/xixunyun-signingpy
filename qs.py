@@ -2,21 +2,11 @@
 
 # 你的登录信息
 data = {
-  "username": "21092030121",
-  "password": "wj030121"
+  "username": "21091230827",
+  "password": "182516wei!"
 }
 
-# 你的签到信息
-signdata = {
-  "temperature": "36.5",
-  "healthState": "1",
-  "dangerousRegion": "2",
-  "dangerousRegionRemark": "",
-  "contactSituation": "2",
-  "contactSituationRemark": "",
-  "familySituation": "1",
-  "familySituationRemark": ""
-}
+
 # 你的请求头
 headers = {
   "Content-Type": "application/json;charset=UTF-8"
